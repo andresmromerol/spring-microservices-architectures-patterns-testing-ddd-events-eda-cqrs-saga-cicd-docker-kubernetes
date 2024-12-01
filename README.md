@@ -4,7 +4,7 @@
 ---
 ## 🔗 Hi, I'm Andrés Romero! 👋
 <br>
-andresmromerolopez@gmail.com  - andresandresmromero7@gmail.com
+andresmromerolopez@gmail.com  - andresmromero7@gmail.com
 
 [![linkedin](./diagrams/img/linkedin.svg)](https://www.linkedin.com/in/andres-mauricio-romero-lopez-9276b3337)
 
